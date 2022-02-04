@@ -10,6 +10,7 @@ bft-trade engine.lab is the repository for Billfold Technology trade engines bas
 |  Access token: | OAuth | 
 |  Nucleus class: | trade engine.lab | 
 |  Deployment name: | `npm install` tradeenginelab |
+|  [Order](https://github.com/Billfold-Technologies/Technical-Orders) | nucleus type particle |
 |  Node Home: | 'sbm-tradeengine/filename' |
 
 
